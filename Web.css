@@ -1,5 +1,6 @@
-label{ display: block;
-    margin-bottom: 15px
-;
-
-}
+.id{ display: inline; /* the default for span */
+    padding: 15px;
+    background-color: rgb(7, 57, 165); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 7px solid white; color: beige;}
+    
+#DJ{display: flex; border-radius: 20px;}
