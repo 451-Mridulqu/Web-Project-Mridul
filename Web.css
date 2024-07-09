@@ -53,3 +53,24 @@
      nav ul{ display: flex;
              align-items: center;
       }
+   
+    .banner-geetings{
+         font-weight: bold;
+         font-size: 21px;
+         
+    }
+     .banner-title{
+        font-size: 50px;
+        font-weight: bold;
+     }
+     .banner-Photo{
+        width: 580px;
+     }
+      .banner{
+         display: flex;
+         justify-content: space-between;
+         margin: 0 20px 0px 120px;
+      }
+       
+      
+      .banner-cantent{ max-width: 580px;}
