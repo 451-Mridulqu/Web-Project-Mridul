@@ -1,6 +1,9 @@
+
+body{background-image: url(Background.jpg); width: 1600;}
 .id{ display: inline; /* the default for span */
     padding: 15px;
     background-color: rgb(7, 57, 165); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-border: 7px solid white; color: beige;}
+border: 7px solid white; color: beigegit ; display: block;}
     
 #DJ{display: flex; border-radius: 20px;}
+#Background{ width: 1500px;height: 800px;}
