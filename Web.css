@@ -10,6 +10,7 @@
     "wdth" 100;
 }
 /* Nav Styles*/
+ .S-bg{background-color: rgb(116, 0, 170); margin:0px;}
  nav{
       display: flex; align-items: center; 
       justify-content: space-between;
@@ -64,7 +65,7 @@
         font-weight: bold;
      }
      .banner-Photo{
-        width: 580px;
+        width: 390px;
      }
       .banner{
          display: flex;
@@ -74,3 +75,16 @@
        
       
       .banner-cantent{ max-width: 580px;}
+
+       /* main styles*/
+        .main{ margin: 0px auto;
+         max-width: 1140px;
+        }
+
+      /* about */
+      .about{
+             border-radius: 10px;
+             padding: 130px 150px;
+             text-align: center;
+             margin: 130px;
+      }
